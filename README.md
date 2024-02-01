@@ -410,3 +410,4 @@ This software license under [MIT](https://github.com/masato-ka/airc-rl-agent/blo
 [masato-ka](https://github.com/masato-ka)
 
 ## Second Author
+[Abdul Manan Khan](https://github.com/abdul-mannan-khan)
