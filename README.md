@@ -405,6 +405,8 @@ You can configuration to some hyper parameter using config.yml.
 
 This software license under [MIT](https://github.com/masato-ka/airc-rl-agent/blob/master/LICENCE) licence.
 
-## Author
+## Base Author
 
 [masato-ka](https://github.com/masato-ka)
+
+## Second Author
